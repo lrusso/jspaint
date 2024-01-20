@@ -1,6 +1,6 @@
 # JS Paint
 
-JS Paint deployed to GitHub Pages
+JS Paint deployed to GitHub Pages.
 
 ## Web:
 
